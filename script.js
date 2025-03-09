@@ -1,8 +1,17 @@
 const songs = [
-    "01. Lemon lime.mp3",
-    "02. Chlorophyll.mp3",
-    "03. Inflorescence Hotmix.mp3",
-    "04. Stargazer.mp3"
+    "1. Menu.mp3",
+    "2. Where Are You.mp3",
+    "3. Eruption.mp3",
+    "4. Kaio-Ken.mp3",
+    "5. What's New.mp3",
+    "6. Blast.mp3",
+    "7. Super Saiyan.mp3",
+    "9. God Eater.mp3",
+    "10. Soothing Power.mp3",
+    "11. Thunderstorm.mp3",
+    "12. Dissasembler.mp3",
+    "13. Astral Calamity.mp3",
+    "14. Talladega.mp3"
 ];
 
 const songsDropdown = document.getElementById('songsDropdown');
